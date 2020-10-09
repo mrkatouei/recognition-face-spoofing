@@ -1,6 +1,7 @@
+# This project written by mohamadreza katoueizade from persia
 # awesome_face_antispoofing
-- This is a single shot face anti-spoofing project.
-- The deep learning framework is Pytorch. Python3.5 is used.
+- This is a single shot complete face anti-spoofing project.
+- The deep learning framework is Pytorch. Python3.8 is used.
 # Installation
 - sudo -s
 - sh install_requirements.sh
